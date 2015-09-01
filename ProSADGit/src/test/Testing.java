@@ -10,5 +10,7 @@ package test;
  * @author Ishan
  */
 public class Testing {
-    
+    public static void main(String[] args) {
+        //////
+    }
 }
